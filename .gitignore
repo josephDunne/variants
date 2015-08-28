@@ -1,0 +1,6 @@
+.stack-work
+*.ll
+*.hp
+*.aux
+*.ps
+*.prof
